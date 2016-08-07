@@ -1,0 +1,28 @@
+name: dubstepsoftware
+favicon: null
+layout_spectrum: 0.5739392496179789
+typography_spectrum: 0.9941237191669643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9631336412858218
+  lightness: 0.3181984529364854
+  saturation: 0.258231891784817
+  rhythmicContrast: 0.8750584914814681
+purpose: []
